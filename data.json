@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "lisaaa",
+      "salary": 25000,
+      "id": "102"
+    },
+    {
+      "id": "103",
+      "name": "mark",
+      "salary": 22000
+    },
+    {
+      "id": "104",
+      "name": "nina",
+      "salary": 24000
+    },
+    {
+      "id": "105",
+      "name": "john",
+      "salary": 23000
+    },
+    {
+      "id": "5c88",
+      "name": "esgseg",
+      "salary": 90
+    },
+    {
+      "id": "6f90",
+      "name": "aaggag",
+      "salary": 90000
+    }
+  ]
+}
